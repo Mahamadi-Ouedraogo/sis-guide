@@ -1,0 +1,16 @@
+/** SKIN OVERLOADS ************************************************************/
+
+/*	Extension MS	*/
+div#scDepotStack {
+  position: absolute;
+  top: 12px;
+  left: 180px;
+  color: #ffffff;
+}
+div#scDepotStack a{
+  color: white;
+  text-decoration:none;
+}
+div#scDepotStack a:hover{
+  text-decoration:underline;
+}
